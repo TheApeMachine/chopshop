@@ -1,0 +1,4 @@
+__pycache__
+tree-sitter-python
+libllama
+*.so
